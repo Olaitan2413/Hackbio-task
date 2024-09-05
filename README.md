@@ -6,7 +6,7 @@ Drug resistance is a complex cellular response, which can be caused by different
 
 Further more, Drug resistance has been observed to be one of the major causes of therapeutic problems that severely limit the outcome of different types of cancers such as ovarian cancer, breast cancer, lung cancer etc. Malignant cells rapidly develop resistance to chemotherapeutic agents through various mechanisms also. This might include; reduced drug uptake due to OATP1B3 overexpression, increased drug efflux due to P-glycoprotein (P-gp) overexpression, triggering of DNA repair processes via ERCC1 upregulation, disruption of apoptotic signaling pathways due to Bcl-2 overexpression, and presence of cancer stem cells (Seth Kwabena Amponsah and Adams, 2022). 
 
-Understanding the genetic alterations at the cellular level that contributes to drug resistant cancer patients will certainly help to improve the management and therapeutic outcomes in cancer treatment.
+Understanding the genetic alterations at the cellular level that contributes to malignant development of resistant to chemotherapic compounds in cancer patients will certainly help to improve the management and therapeutic outcomes in cancer treatment.
 ## References
 
 Pasipanodya, J.G. and Gumbo, T. (2011). A new evolutionary and pharmacokinetic-pharmacodynamic scenario for rapid emergence of resistance to single and multiple anti-tuberculosis drugs. Current opinion in pharmacology, [online] 11(5), pp.457–463. doi:https://doi.org/10.1016/j.coph.2011.07.001.
